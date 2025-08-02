@@ -8,7 +8,7 @@ This project showcases my background, interests, and the projects I’ve worked 
 
 ## 📌 Live Demo
 
-🔗 [Visit My Portfolio](https://yourusername.github.io/your-repo-name/)
+🔗 [Visit My Portfolio](https://personal-portfolio-sigma-ebon.vercel.app/)
 
 ---
 
@@ -22,7 +22,7 @@ I'm passionate about creating clean, responsive websites and solving problems wi
 ## 🎓 Education
 
 - **BSc in Software Engineering** – Haramaya University  
-📄 [Download My CV](./assets/cv/Yordanos_CV.pdf)
+📄 [Download My CV](https://drive.google.com/file/d/1-pM3JWx8NByIOenYsm9eYrJ-vicd76A4/view)
 
 ---
 
@@ -47,22 +47,22 @@ I'm passionate about creating clean, responsive websites and solving problems wi
 
 ## 🚀 Projects
 
-1. **[Tic Tac Toe Game](https://github.com/yordiyes/Tic-Tac-Toe)**  
-   A simple two-player Tic Tac Toe game using HTML, CSS, and JavaScript.
+- ### [☕ Coffee Shop Website](https://github.com/yordiyes/Coffee-Shop-Site)  
+  A fully responsive landing page for a fictional coffee shop. Built with HTML, CSS, and JavaScript to provide a clean and elegant user experience.
 
-2. **[Weather App](https://github.com/yordiyes/WeatherApp)**  
-   A web app that fetches real-time weather data using an external API.
+- ### [📝 To-Do List App](https://github.com/yordiyes/To-Do-List-App)  
+  A minimal task manager that lets users add, check off, and delete tasks. Helps users stay organized and productive with a simple UI.
 
-3. **[To-Do List App](https://github.com/yordiyes/To-Do-List-App)**  
-   A minimal task manager to track daily tasks and goals.
+- ### [🌤️ Weather App](https://github.com/yordiyes/Weather-Web-App)  
+  A web application that shows real-time weather information using the OpenWeatherMap API. It includes a modern UI and responsive design.
 
 ---
 
 ## 📬 Contact
 
-Want to work together or say hello? Fill out the form on my [Contact Me](https://yourusername.github.io/your-repo-name/#contact) section or reach out via:
+Want to work together or say hello? Fill out the form on my [Contact Me](https://personal-portfolio-sigma-ebon.vercel.app/#contact) section or reach out via:
 
-- Email: your@email.com  
+- Email: workwithyordanos@email.com  
 - GitHub: [@yordiyes](https://github.com/yordiyes)
 
 ---
