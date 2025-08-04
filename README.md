@@ -26,7 +26,7 @@ I'm passionate about creating clean, responsive websites and solving problems wi
 
 ---
 
-## 🧑‍💻 Programming Languages
+## 💻 Programming Languages
 
 - HTML  
 - CSS  
@@ -71,7 +71,7 @@ Want to work together or say hello? Fill out the form on my [Contact Me](https:/
 
 - HTML  
 - CSS  
-- GitHub Pages (for deployment)
+- Vercel  (for deployment)
 
 ---
 

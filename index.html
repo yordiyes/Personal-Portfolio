@@ -69,8 +69,9 @@
             />
           </div>
           <h1 class="hero-title">
-            Hi, I'm <span class="highlight">Yordanos Yeshitla</span>
+            Hi, I'm <span class="highlight typing"></span>
           </h1>
+
           <p class="hero-subtitle">
             A passionate Full-Stack Developer crafting beautiful, functional web
             experiences with modern technologies and creative problem-solving.
@@ -546,6 +547,45 @@
         </div>
       </div>
     </footer>
+    <script>
+      const typedText = [
+        "Yordanos Yeshitla",
+        "a Full-Stack Developer",
+        "a Problem Solver",
+      ];
+      let i = 0,
+        j = 0,
+        currentText = "",
+        isDeleting = false;
+
+      function typeEffect() {
+        const typingSpan = document.querySelector(".typing");
+
+        if (i < typedText.length) {
+          if (!isDeleting && j <= typedText[i].length) {
+            currentText = typedText[i].substring(0, j++);
+            typingSpan.innerHTML = currentText + "|";
+          } else if (isDeleting && j >= 0) {
+            currentText = typedText[i].substring(0, j--);
+            typingSpan.innerHTML = currentText + "|";
+          }
+
+          if (!isDeleting && j > typedText[i].length) {
+            isDeleting = true;
+            setTimeout(typeEffect, 1200);
+            return;
+          } else if (isDeleting && j === 0) {
+            isDeleting = false;
+            i = (i + 1) % typedText.length;
+          }
+        }
+
+        setTimeout(typeEffect, isDeleting ? 80 : 120);
+      }
+
+      document.addEventListener("DOMContentLoaded", typeEffect);
+    </script>
+
     <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
     <script>
       (function () {
